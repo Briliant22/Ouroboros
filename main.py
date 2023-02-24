@@ -4,7 +4,6 @@ from snake import Snake
 from food import Food
 from scoreboard import Scoreboard
 
-
 if __name__ == "__main__":
     screen = Screen()
     screen.setup(width=600, height=600)
